@@ -1,1 +1,2 @@
 # Demo
+Face Detection demo
