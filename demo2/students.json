@@ -1,0 +1,24 @@
+{
+    "classes": [
+      { "class_id": 1, "class_name": "Class A" },
+      { "class_id": 2, "class_name": "Class B" },
+      { "class_id": 3, "class_name": "Class C" }
+    ],
+    "students": [
+      { "student_id": "S12345", "student_name": "Nguyen Van A" },
+      { "student_id": "S12346", "student_name": "Le Thi B" },
+      { "student_id": "S12347", "student_name": "Tran Minh C" }
+    ],
+    "subjects": [
+      { "subject_id": "MATH101", "subject_name": "Mathematics 101" },
+      { "subject_id": "CS102", "subject_name": "Computer Science 102" },
+      { "subject_id": "ENG103", "subject_name": "English 103" }
+    ],
+    "attendance_records": [
+      { "class_id": 1, "subject_id": "MATH101", "student_id": "S12345", "date": "2024-11-20 08:00:00", "status": "Present" },
+      { "class_id": 1, "subject_id": "CS102", "student_id": "S12345", "date": "2024-11-20 08:00:00", "status": "Absent" },
+      { "class_id": 2, "subject_id": "ENG103", "student_id": "S12346", "date": "2024-11-20 08:00:00", "status": "Present" },
+      { "class_id": 3, "subject_id": "MATH101", "student_id": "S12347", "date": "2024-11-20 08:00:00", "status": "Late" }
+    ]
+  }
+  
